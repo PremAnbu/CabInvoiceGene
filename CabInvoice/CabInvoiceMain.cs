@@ -18,6 +18,7 @@ namespace CabInvoice
             if(totval <5) {
                 return MinFare;
             }
+
             else
             {
                 return totval;

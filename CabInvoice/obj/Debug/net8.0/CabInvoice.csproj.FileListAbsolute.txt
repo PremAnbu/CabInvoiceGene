@@ -1,0 +1,15 @@
+D:\BridgeLabz\cSharp\cabinvoice\CabInvoice\bin\Debug\net8.0\CabInvoice.exe
+D:\BridgeLabz\cSharp\cabinvoice\CabInvoice\bin\Debug\net8.0\CabInvoice.deps.json
+D:\BridgeLabz\cSharp\cabinvoice\CabInvoice\bin\Debug\net8.0\CabInvoice.runtimeconfig.json
+D:\BridgeLabz\cSharp\cabinvoice\CabInvoice\bin\Debug\net8.0\CabInvoice.dll
+D:\BridgeLabz\cSharp\cabinvoice\CabInvoice\bin\Debug\net8.0\CabInvoice.pdb
+D:\BridgeLabz\cSharp\cabinvoice\CabInvoice\obj\Debug\net8.0\CabInvoice.GeneratedMSBuildEditorConfig.editorconfig
+D:\BridgeLabz\cSharp\cabinvoice\CabInvoice\obj\Debug\net8.0\CabInvoice.AssemblyInfoInputs.cache
+D:\BridgeLabz\cSharp\cabinvoice\CabInvoice\obj\Debug\net8.0\CabInvoice.AssemblyInfo.cs
+D:\BridgeLabz\cSharp\cabinvoice\CabInvoice\obj\Debug\net8.0\CabInvoice.csproj.CoreCompileInputs.cache
+D:\BridgeLabz\cSharp\cabinvoice\CabInvoice\obj\Debug\net8.0\CabInvoice.sourcelink.json
+D:\BridgeLabz\cSharp\cabinvoice\CabInvoice\obj\Debug\net8.0\CabInvoice.dll
+D:\BridgeLabz\cSharp\cabinvoice\CabInvoice\obj\Debug\net8.0\refint\CabInvoice.dll
+D:\BridgeLabz\cSharp\cabinvoice\CabInvoice\obj\Debug\net8.0\CabInvoice.pdb
+D:\BridgeLabz\cSharp\cabinvoice\CabInvoice\obj\Debug\net8.0\CabInvoice.genruntimeconfig.cache
+D:\BridgeLabz\cSharp\cabinvoice\CabInvoice\obj\Debug\net8.0\ref\CabInvoice.dll
