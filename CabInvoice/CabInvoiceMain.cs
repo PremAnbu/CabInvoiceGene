@@ -11,7 +11,7 @@ namespace CabInvoice
         static double costPerKM = 10;
         static double costPerMin = 10;
         static double MinFare = 5;
-        public double TotalFare(double distance, int time)
+        public static double TotalFare(double distance, int time)
         {
             
             double totval = (distance * costPerKM) + (time * costPerMin);
