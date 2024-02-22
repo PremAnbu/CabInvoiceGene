@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\DotNet\\CabInvoice\\CabInvoice\\CabInvoice.csproj": {}
+    "D:\\BridgeLabz\\cSharp\\cabinvoice\\CabInvoice\\CabInvoice.csproj": {}
   },
   "projects": {
-    "C:\\DotNet\\CabInvoice\\CabInvoice\\CabInvoice.csproj": {
+    "D:\\BridgeLabz\\cSharp\\cabinvoice\\CabInvoice\\CabInvoice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DotNet\\CabInvoice\\CabInvoice\\CabInvoice.csproj",
+        "projectUniqueName": "D:\\BridgeLabz\\cSharp\\cabinvoice\\CabInvoice\\CabInvoice.csproj",
         "projectName": "CabInvoice",
-        "projectPath": "C:\\DotNet\\CabInvoice\\CabInvoice\\CabInvoice.csproj",
+        "projectPath": "D:\\BridgeLabz\\cSharp\\cabinvoice\\CabInvoice\\CabInvoice.csproj",
         "packagesPath": "C:\\Users\\PREMK\\.nuget\\packages\\",
-        "outputPath": "C:\\DotNet\\CabInvoice\\CabInvoice\\obj\\",
+        "outputPath": "D:\\BridgeLabz\\cSharp\\cabinvoice\\CabInvoice\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
